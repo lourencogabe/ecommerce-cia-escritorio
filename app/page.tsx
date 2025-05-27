@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <main>Cia. do Escritorio</main>
+    <div>Cia. do Escritorio</div>
   )
 }    
